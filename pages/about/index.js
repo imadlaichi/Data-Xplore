@@ -80,7 +80,7 @@ const aboutData = [
         
       },
       {
-        title: '- 🔵 C',
+        title: '- 🔵 Python',
         
       },
       {

@@ -21,8 +21,8 @@ const Layout = ({ children }) => {
       }}
     >
       <Head>
-        <title>New Prime University</title>
-        <meta name="description" content="New Prime University" />
+        <title>Data-Xplore</title>
+        <meta name="description" content="Data-Xplore" />
         <link rel="icon" href="/icon.ico" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         
